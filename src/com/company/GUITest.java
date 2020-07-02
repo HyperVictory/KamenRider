@@ -106,6 +106,6 @@ class GUITest {
         Scanner input=new Scanner(System.in);
         int n;
         int x,y;
-        n=input.nextInt();//只是实现一个暂停功能，充分利用了单元测试中不能输入
+        n=input.nextInt();//只是一场梦
     }
     }
